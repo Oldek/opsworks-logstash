@@ -127,3 +127,9 @@
 [submodule "phalcon-php"]
 	path = phalcon-php
 	url = https://github.com/k-kinzal/chef-php-phalcon.git
+[submodule "composer"]
+	path = composer
+	url = https://github.com/escapestudios-cookbooks/composer
+[submodule "php-phalcon"]
+	path = php-phalcon
+	url = https://github.com/k-kinzal/chef-php-phalcon.git
